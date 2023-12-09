@@ -1,9 +1,7 @@
-import React from 'react';
-
 function App() {
     return (
         <>
-            <div>this is in app</div>
+            <div className='border-8 text-center'>hello Div</div>
         </>
     );
 }
